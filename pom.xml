@@ -12,6 +12,8 @@
         <module>lab-3/lab-3-server</module>
         <module>lab-3/lab-3-client</module>
         <module>lab-4/lab-4-eureka-server</module>
+        <module>lab-4/lab-4-subject</module>
+        <module>lab-4/lab-4-verb</module>
     </modules>
 
 </project>
