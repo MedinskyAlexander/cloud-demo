@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.medinsky</groupId>
-	<artifactId>lab-4-noun</artifactId>
+	<artifactId>lab-4-sentence</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lab-4-noun</name>
+	<name>lab-4-sentence</name>
 	<packaging>jar</packaging>
 
 	<properties>
