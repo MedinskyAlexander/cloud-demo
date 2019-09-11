@@ -18,6 +18,7 @@
         <module>lab-4/lab-4-adjective</module>
         <module>lab-4/lab-4-noun</module>
         <module>lab-4/lab-4-sentence</module>
+        <module>lab-4/lab-4-common-config-server</module>
     </modules>
 
 </project>

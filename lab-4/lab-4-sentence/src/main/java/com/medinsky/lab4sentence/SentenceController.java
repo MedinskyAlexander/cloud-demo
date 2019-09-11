@@ -1,4 +1,4 @@
-package com.medinsky.lab4subject;
+package com.medinsky.lab4sentence;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.List;
 
 @RestController
-public class SubjectController {
+public class SentenceController {
 
     @Autowired
     private DiscoveryClient client;
