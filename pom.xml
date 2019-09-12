@@ -20,11 +20,13 @@
         <module>lab-4/lab-4-noun</module>
         <module>lab-4/lab-4-sentence</module>
         <module>lab-4/lab-4-common-config-server</module>
-        <module>lab-5/lab-5-article</module>
-        <module>lab-5/lab-5-adjective</module>
-        <module>lab-5/lab-5-subject</module>
-        <module>lab-5/lab-5-verb</module>
-        <module>lab-5/lab-5-noun</module>
+<!--        <module>lab-5/lab-5-article</module>-->
+<!--        <module>lab-5/lab-5-adjective</module>-->
+<!--        <module>lab-5/lab-5-subject</module>-->
+<!--        <module>lab-5/lab-5-verb</module>-->
+<!--        <module>lab-5/lab-5-noun</module>-->
+        <module>lab-5/lab-5-sentence</module>
+        <module>lab-5/word-server</module>
         <module>commons/common-eureka-server</module>
         <module>commons/common-config-server</module>
     </modules>
