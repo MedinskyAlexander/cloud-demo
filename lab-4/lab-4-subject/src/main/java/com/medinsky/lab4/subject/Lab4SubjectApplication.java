@@ -1,4 +1,4 @@
-package com.medinsky.lab4subject;
+package com.medinsky.lab4.subject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

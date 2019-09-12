@@ -1,4 +1,4 @@
-package com.medinsky.lab4article;
+package com.medinsky.lab4.verb;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class ArticleController {
+public class VerbController {
 
     @Value("${words}")
     private String words;

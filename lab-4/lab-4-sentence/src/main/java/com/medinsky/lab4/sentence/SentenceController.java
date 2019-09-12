@@ -1,4 +1,4 @@
-package com.medinsky.lab4sentence;
+package com.medinsky.lab4.sentence;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.medinsky.lab4sentence;
+package com.medinsky.lab4.noun;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class Lab4SentenceApplication {
+public class Lab4NounApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lab4SentenceApplication.class, args);
+		SpringApplication.run(Lab4NounApplication.class, args);
 	}
 
 }
