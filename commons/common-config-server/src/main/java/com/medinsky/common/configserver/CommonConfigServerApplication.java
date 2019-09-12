@@ -1,4 +1,4 @@
-package com.medinsky.lab4configserver;
+package com.medinsky.common.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

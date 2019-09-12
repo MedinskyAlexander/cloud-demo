@@ -1,4 +1,4 @@
-package com.medinsky.lab4eurekaserver;
+package com.medinsky.common.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
